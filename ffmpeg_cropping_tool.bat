@@ -56,4 +56,4 @@ REM Delete the temporary batch file
 del temp_ffmpeg_command.bat
 
 REM Rerun Batch file after completion
-start cmd /c ffmpeg_cropping_tool.exe
+start cmd /c ffmpeg_cropping_tool.bat
